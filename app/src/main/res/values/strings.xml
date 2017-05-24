@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GesturesDemo</string>
+    <string name="gesture_demo">Gesture Demo</string>
+</resources>
